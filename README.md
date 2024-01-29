@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/adrianmihail/Mike_One/_apis/build/status%2FAdrian-Mihai-Marghidan.pipelines-java?branchName=main)](https://dev.azure.com/adrianmihail/Mike_One/_build/latest?definitionId=7&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
